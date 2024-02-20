@@ -14,5 +14,5 @@ Algumas das principais ferramentas que uso na maioria dos meus projetos:
 
 Para entrar em contato comigo você pode:
 
-- Enviar um e-mail: carlosfsilva.c@gmail.com
-- Me chamar no LinkedIn: https://www.linkedin.com/in/carlosfsilvac/
+- Enviar um e-mail para carlosfsilva.c@gmail.com
+- Me chamar no [LinkedIn](https://www.linkedin.com/in/carlosfsilvac/)
