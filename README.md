@@ -1,16 +1,16 @@
-## Hi there 👋
+### About
 
-<!--
-**carlosfsilvac/carlosfsilvac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that connects front and back with clarity and intention.
 
-Here are some ideas to get you started:
+Focused on modern web technologies:
+- React, Next.js
+- Python, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clean code, scalable architecture, meaningful interfaces.
+
+Currently exploring:
+- AI integrations (LLMs, Whisper)
+- API-first design
+- Remote-first development
+
+Open to collaboration, freelance, and remote opportunities.
